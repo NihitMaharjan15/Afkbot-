@@ -1,0 +1,10 @@
+Update server port and remove unnecessary HTML file
+
+Modify the server to listen on port 3000 and remove the index.html file, now sending a direct text response instead.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 0cf01de2-fe92-441b-8e5e-cbc65a511bab
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Event-Id: 521b533b-62fd-4889-8b0e-4539f29cf410
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/240fd912-3c50-441f-a3b8-bf8e7bf3f10e/0cf01de2-fe92-441b-8e5e-cbc65a511bab/kLsjJsj
+Replit-Helium-Checkpoint-Created: true
