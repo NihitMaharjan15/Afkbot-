@@ -62,8 +62,8 @@ function createBot() {
 
   try {
     bot = mineflayer.createBot({
-      host: 'HYFOX-MC.aternos.me',
-      port: 27053,
+      host: 'SHADOWMCplaynet.aternos.me',
+      port: 50003,
       username: '$hamza$',
       version: false,
       plugins: [AutoAuth],
